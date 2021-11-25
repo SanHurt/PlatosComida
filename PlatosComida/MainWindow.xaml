@@ -87,7 +87,7 @@
             </Style.Triggers>
         </Style>
     </Window.Resources>
-    <DockPanel>
+    <DockPanel Background="Cyan">
         <StackPanel DockPanel.Dock="Right"
                     Background="LightGray"
                     Width="230">
